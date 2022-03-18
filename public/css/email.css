@@ -1,0 +1,13 @@
+form{
+    margin: 0;
+}
+
+.div-success{
+    flex-direction: column;
+    background-color: #00ce1f;
+}
+
+.div-error{
+    flex-direction: column;
+    background-color: #f54f3f;
+}

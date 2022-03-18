@@ -1,0 +1,30 @@
+.div-error{
+    background-color: #f54f3f;
+    margin-bottom: 10px;
+    max-height: 55px;
+}
+
+.div-error .text-error{
+    margin-left: 15px;
+}
+
+.container{
+    width: 450px !important;
+    border-radius: 10px;
+}
+
+form, .btn {
+    width: 350px;
+}
+
+form h3 {
+    margin-top: 10px;
+    color: #212529;
+}
+
+form .link{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
